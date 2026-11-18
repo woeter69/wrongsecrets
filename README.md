@@ -22,7 +22,7 @@ Try some of them on [our Heroku demo environment](https://wrongsecrets.herokuapp
 
 Want to play the other challenges? Read the instructions on how to set them up below.
 
-## 🚀 Quick Start
+## 🚀 Start Quick
 
 **New to WrongSecrets? Start here:**
 
